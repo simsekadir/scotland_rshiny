@@ -1,0 +1,193 @@
+"FeatureName","Energy.Type","mean_consumption"
+"Aberdeen City","Bioenergy & Wastes",106.85
+"Aberdeen City","Coal",24.49
+"Aberdeen City","Electricity",1112.09
+"Aberdeen City","Gas",2336.4
+"Aberdeen City","Manufactured Fuels",12.06
+"Aberdeen City","Petroleum Products",1446.02
+"Aberdeenshire","Bioenergy & Wastes",163.07
+"Aberdeenshire","Coal",41.22
+"Aberdeenshire","Electricity",1226.22
+"Aberdeenshire","Gas",1416.93
+"Aberdeenshire","Manufactured Fuels",24.19
+"Aberdeenshire","Petroleum Products",3586.77
+"Angus","Bioenergy & Wastes",65.14
+"Angus","Coal",11.61
+"Angus","Electricity",518.67
+"Angus","Gas",916.21
+"Angus","Manufactured Fuels",5.4
+"Angus","Petroleum Products",1227.02
+"Argyll and Bute","Bioenergy & Wastes",89.56
+"Argyll and Bute","Coal",30.98
+"Argyll and Bute","Electricity",502.3
+"Argyll and Bute","Gas",460.46
+"Argyll and Bute","Manufactured Fuels",6.67
+"Argyll and Bute","Petroleum Products",1125.35
+"City of Edinburgh","Bioenergy & Wastes",143.77
+"City of Edinburgh","Coal",19.91
+"City of Edinburgh","Electricity",2279.36
+"City of Edinburgh","Gas",4630.45
+"City of Edinburgh","Manufactured Fuels",4.05
+"City of Edinburgh","Petroleum Products",2876.8
+"Clackmannanshire","Bioenergy & Wastes",15.11
+"Clackmannanshire","Coal",1.1
+"Clackmannanshire","Electricity",304.51
+"Clackmannanshire","Gas",1107.48
+"Clackmannanshire","Manufactured Fuels",2.95
+"Clackmannanshire","Petroleum Products",289.03
+"Dumfries and Galloway","Bioenergy & Wastes",174.2
+"Dumfries and Galloway","Coal",44.42
+"Dumfries and Galloway","Electricity",854.42
+"Dumfries and Galloway","Gas",1177.6
+"Dumfries and Galloway","Manufactured Fuels",21.74
+"Dumfries and Galloway","Petroleum Products",2920.17
+"Dundee City","Bioenergy & Wastes",28.18
+"Dundee City","Coal",0.17
+"Dundee City","Electricity",641.97
+"Dundee City","Gas",1457.42
+"Dundee City","Manufactured Fuels",0.76
+"Dundee City","Petroleum Products",785.91
+"East Ayrshire","Bioenergy & Wastes",294.4
+"East Ayrshire","Coal",56.36
+"East Ayrshire","Electricity",427.3
+"East Ayrshire","Gas",1049.6
+"East Ayrshire","Manufactured Fuels",6.08
+"East Ayrshire","Petroleum Products",1069.97
+"East Dunbartonshire","Bioenergy & Wastes",22.47
+"East Dunbartonshire","Coal",2.49
+"East Dunbartonshire","Electricity",340.54
+"East Dunbartonshire","Gas",913.9
+"East Dunbartonshire","Manufactured Fuels",2.06
+"East Dunbartonshire","Petroleum Products",496.43
+"East Lothian","Bioenergy & Wastes",218.68
+"East Lothian","Coal",486.6
+"East Lothian","Electricity",469.39
+"East Lothian","Gas",776.63
+"East Lothian","Manufactured Fuels",5.65
+"East Lothian","Petroleum Products",909.02
+"East Renfrewshire","Bioenergy & Wastes",28.68
+"East Renfrewshire","Coal",0.82
+"East Renfrewshire","Electricity",232.04
+"East Renfrewshire","Gas",761.46
+"East Renfrewshire","Manufactured Fuels",2.1
+"East Renfrewshire","Petroleum Products",607.29
+"Falkirk","Bioenergy & Wastes",57.18
+"Falkirk","Coal",2.57
+"Falkirk","Electricity",687.32
+"Falkirk","Gas",1342.99
+"Falkirk","Manufactured Fuels",555.9
+"Falkirk","Petroleum Products",14322.46
+"Fife","Bioenergy & Wastes",227
+"Fife","Coal",12.55
+"Fife","Electricity",1531.93
+"Fife","Gas",3395.29
+"Fife","Manufactured Fuels",27.36
+"Fife","Petroleum Products",7092.41
+"Glasgow City","Bioenergy & Wastes",116.23
+"Glasgow City","Coal",1.08
+"Glasgow City","Electricity",2741.42
+"Glasgow City","Gas",5166.11
+"Glasgow City","Manufactured Fuels",3.38
+"Glasgow City","Petroleum Products",3286.49
+"Highland","Bioenergy & Wastes",1143.38
+"Highland","Coal",69.52
+"Highland","Electricity",1526.66
+"Highland","Gas",1158.03
+"Highland","Manufactured Fuels",19.03
+"Highland","Petroleum Products",3424.92
+"Inverclyde","Bioenergy & Wastes",20.21
+"Inverclyde","Coal",0.52
+"Inverclyde","Electricity",309.02
+"Inverclyde","Gas",671.56
+"Inverclyde","Manufactured Fuels",1.55
+"Inverclyde","Petroleum Products",438.35
+"Midlothian","Bioenergy & Wastes",50.37
+"Midlothian","Coal",11.48
+"Midlothian","Electricity",346.02
+"Midlothian","Gas",673.08
+"Midlothian","Manufactured Fuels",3.16
+"Midlothian","Petroleum Products",633.63
+"Moray","Bioenergy & Wastes",100.36
+"Moray","Coal",18.36
+"Moray","Electricity",488.06
+"Moray","Gas",1829.31
+"Moray","Manufactured Fuels",6.1
+"Moray","Petroleum Products",949.55
+"Na h-Eileanan Siar","Bioenergy & Wastes",34.6
+"Na h-Eileanan Siar","Coal",12.45
+"Na h-Eileanan Siar","Electricity",152.62
+"Na h-Eileanan Siar","Gas",18.19
+"Na h-Eileanan Siar","Manufactured Fuels",3
+"Na h-Eileanan Siar","Petroleum Products",375.36
+"North Ayrshire","Bioenergy & Wastes",1487.57
+"North Ayrshire","Coal",3.32
+"North Ayrshire","Electricity",662.46
+"North Ayrshire","Gas",2218.7
+"North Ayrshire","Manufactured Fuels",3.6
+"North Ayrshire","Petroleum Products",776.83
+"North Lanarkshire","Bioenergy & Wastes",133.81
+"North Lanarkshire","Coal",3.73
+"North Lanarkshire","Electricity",1323.96
+"North Lanarkshire","Gas",2939.25
+"North Lanarkshire","Manufactured Fuels",26.25
+"North Lanarkshire","Petroleum Products",3098.25
+"Orkney Islands","Bioenergy & Wastes",15.25
+"Orkney Islands","Coal",6.36
+"Orkney Islands","Electricity",138.33
+"Orkney Islands","Gas",0
+"Orkney Islands","Manufactured Fuels",2.39
+"Orkney Islands","Petroleum Products",343.07
+"Perth and Kinross","Bioenergy & Wastes",105.68
+"Perth and Kinross","Coal",16.32
+"Perth and Kinross","Electricity",722.21
+"Perth and Kinross","Gas",1025.08
+"Perth and Kinross","Manufactured Fuels",8.25
+"Perth and Kinross","Petroleum Products",2530.55
+"Renfrewshire","Bioenergy & Wastes",47.54
+"Renfrewshire","Coal",0.81
+"Renfrewshire","Electricity",754.06
+"Renfrewshire","Gas",1583.97
+"Renfrewshire","Manufactured Fuels",1.68
+"Renfrewshire","Petroleum Products",1300.19
+"Scottish Borders","Bioenergy & Wastes",188.84
+"Scottish Borders","Coal",64.06
+"Scottish Borders","Electricity",558.43
+"Scottish Borders","Gas",790.51
+"Scottish Borders","Manufactured Fuels",7.18
+"Scottish Borders","Petroleum Products",1542.62
+"Shetland Islands","Bioenergy & Wastes",22.45
+"Shetland Islands","Coal",7.72
+"Shetland Islands","Electricity",187.22
+"Shetland Islands","Gas",0
+"Shetland Islands","Manufactured Fuels",2.45
+"Shetland Islands","Petroleum Products",356.64
+"South Ayrshire","Bioenergy & Wastes",43.07
+"South Ayrshire","Coal",4.48
+"South Ayrshire","Electricity",471.29
+"South Ayrshire","Gas",1265.67
+"South Ayrshire","Manufactured Fuels",5.74
+"South Ayrshire","Petroleum Products",1081.01
+"South Lanarkshire","Bioenergy & Wastes",141.39
+"South Lanarkshire","Coal",16.54
+"South Lanarkshire","Electricity",1158.65
+"South Lanarkshire","Gas",2480.55
+"South Lanarkshire","Manufactured Fuels",12.73
+"South Lanarkshire","Petroleum Products",2927.3
+"Stirling","Bioenergy & Wastes",721.38
+"Stirling","Coal",5.39
+"Stirling","Electricity",456.85
+"Stirling","Gas",1221.78
+"Stirling","Manufactured Fuels",4.86
+"Stirling","Petroleum Products",1167.72
+"West Dunbartonshire","Bioenergy & Wastes",19.84
+"West Dunbartonshire","Coal",0.18
+"West Dunbartonshire","Electricity",336.49
+"West Dunbartonshire","Gas",728.15
+"West Dunbartonshire","Manufactured Fuels",0.59
+"West Dunbartonshire","Petroleum Products",548.94
+"West Lothian","Bioenergy & Wastes",66.93
+"West Lothian","Coal",2.98
+"West Lothian","Electricity",806.6
+"West Lothian","Gas",1851.29
+"West Lothian","Manufactured Fuels",7.51
+"West Lothian","Petroleum Products",1605.85
